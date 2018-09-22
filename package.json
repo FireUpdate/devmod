@@ -37,6 +37,7 @@
     "libsodium-wrappers": "^0.7.3",
     "moment": "^2.22.0",
     "node-opus": "^0.2.7",
+    "bebel-register": "^6.26.0",
     "sqlite-async": "^1.0.10"
   }
 }
