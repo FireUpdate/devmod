@@ -28,19 +28,19 @@ export default class PingCommand extends Command {
           title: 'DevMod - About the Bot',
           color: colours.blue,
           url: 'https://github.com/redxtech/devmod',
-          description: 'DevMod is a bot made for the DevCord community, but' +
-          ' is applicable to any server that needs moderating. It is written' +
-          ' with discord-akairo and discord.js. To use it on your own' +
-          ' server, follow the steps in the GitHub repo.',
+          description: 'PizzaBot Is A Bot Made For The CroBy™ Community, But' +
+          ' Its Not Applicable To Any Server That Needs Moderating. It Is Written' +
+          ' With `discord-akairo` & `discord.js`. Made By The User Fire#5421.' +
+          ' To Join The Official Server Follow The Link Down Below!',
           fields: [
             {
               name: 'Author:',
-              value: '<@170451883134156800>',
+              value: 'Fire#5421',
               inline: true
             },
             {
-              name: 'GitHub Repo:',
-              value: 'https://github.com/redxtech/devmod',
+              name: 'Official Server:',
+              value: 'https://discord.gg/5qfWyTn',
               inline: true
             }
           ],
@@ -57,3 +57,4 @@ export default class PingCommand extends Command {
     }
   }
 }
+
