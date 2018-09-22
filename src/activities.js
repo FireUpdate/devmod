@@ -3,21 +3,21 @@
  * Config file for available activities.
  */
 export default [
-  'Counting your Good Boye Points.',
-  'Trying to unban SWAT SEAL.',
-  'Spamming the DMs of a random user.',
-  'Compiling.',
-  'Having a snack.',
-  'uncaughtException',
-  'Shitposting in #off-topic-chat.',
-  'Admiring egg.',
-  'Trying to exit vim.',
-  'BEING A HUMAN.',
-  '10011001101111100000011011110',
-  'Hacking the FBI.',
-  'Serving NaN users.',
-  'on a Christian Server',
-  'et ur brokli',
-  'this chat gets weird fasy',
-  'https://i.imgur.com/BVRHZzg.png'
+  'Moderating CroBy™',
+  'Suggestions In #feature-requests',
+  'No Advertising In DM/PM!',
+  'Follow #announcements',
+  'Need Human Help? Get It From @Staff ',
+  'Spaming Results Ban!',
+  'Get Help In #support',
+  'Need Help? Message @Dave 📬',
+  'NSFW Content Only In #nsfw',
+  'Follow The Rules!',
+  'With Fire!',
+  'Do Follow The #faq',
+  'If You Are New Read #getting-started',
+  'Serving CroBy™ Users!',
+  'Testing In #testing',
+  'Bot Commands In #bot-commands',
+  'Report Anything In #reports'
 ]
